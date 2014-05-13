@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+*.classpath
+*.project
+*.settings/
+
+build.sbt*
+lib_managed/
+project/
+submission/
+target/
